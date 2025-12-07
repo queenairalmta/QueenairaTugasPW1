@@ -1,0 +1,45 @@
+body {
+    font-family: Arial;
+    padding: 30px;
+    background: #f4f4f4;
+}
+
+h2 {
+    text-align: center;
+}
+
+.btn-tambah {
+    background: green;
+    padding: 8px 15px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-edit {
+    background: orange;
+    padding: 5px 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.btn-hapus {
+    background: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
